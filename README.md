@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prachimaheta
 - 👀 I’m interested in Web development-Frontend developer/designing
-- 🌱 I’m currently learning Web Development/designing.
+- 🌱 I’m currently learning Web Development-Frontend Developer/designing.
   
 
 <!---
